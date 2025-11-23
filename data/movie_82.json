@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 1984,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 1985,
+    "genres": "Mystery, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 1998,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2021,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Titanic",
+    "director": "Zack Snyder",
+    "year": 1988,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 2007,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Steven Spielberg",
+    "year": 2021,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 1988,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 1992,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 1983,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 1982,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 1986,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Ridley Scott",
+    "year": 2014,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 2005,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Zack Snyder",
+    "year": 2002,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 2012,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 2010,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 1988,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Martin Scorsese",
+    "year": 2002,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 2005,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 2017,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 1988,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 1990,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 2013,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 2001,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Zack Snyder",
+    "year": 2019,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 1980,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1982,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 2002,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Joker",
+    "director": "Christopher Nolan",
+    "year": 2004,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 1993,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Steven Spielberg",
+    "year": 2020,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 1998,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 1999,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 2023,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "John Wick",
+    "director": "Guy Ritchie",
+    "year": 2020,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 1993,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Guy Ritchie",
+    "year": 2024,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Steven Spielberg",
+    "year": 2008,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 1993,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1993,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 2022,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Zack Snyder",
+    "year": 2024,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 1995,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "The Prestige",
+    "director": "James Cameron",
+    "year": 2012,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1995,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Zack Snyder",
+    "year": 1984,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Action, Action"
+  }
+]

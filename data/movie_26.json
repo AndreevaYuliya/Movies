@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 1989,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2003,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 1996,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2015,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Denis Villeneuve",
+    "year": 1985,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 1996,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2009,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 1986,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 2017,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 2002,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 2024,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 1993,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2008,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "James Cameron",
+    "year": 1987,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2024,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Zack Snyder",
+    "year": 1982,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Guy Ritchie",
+    "year": 2014,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Ridley Scott",
+    "year": 2009,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Joker",
+    "director": "Denis Villeneuve",
+    "year": 1988,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Crime, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "James Cameron",
+    "year": 1988,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Denis Villeneuve",
+    "year": 2002,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1989,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 1985,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2018,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 2023,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 1988,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 2023,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 2002,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 2022,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "James Cameron",
+    "year": 2024,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 2015,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 1998,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 1992,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2019,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 1982,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Zack Snyder",
+    "year": 1985,
+    "genres": "Mystery, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 1985,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Quentin Tarantino",
+    "year": 1991,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 2013,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 1991,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2023,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2006,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Zack Snyder",
+    "year": 2004,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 2016,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 1986,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 1991,
+    "genres": "Sci-Fi, Crime"
+  }
+]

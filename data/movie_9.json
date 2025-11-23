@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Titanic",
+    "director": "Martin Scorsese",
+    "year": 1998,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Guy Ritchie",
+    "year": 2002,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 1982,
+    "genres": "Thriller, Romance"
+  },
+  {
+    "title": "John Wick",
+    "director": "Zack Snyder",
+    "year": 1981,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 2011,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 1993,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 2012,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2013,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 2022,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 1996,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 2018,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2007,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 1995,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 2009,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Gladiator",
+    "director": "James Cameron",
+    "year": 2024,
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 1989,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Zack Snyder",
+    "year": 2024,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 1980,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2007,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Zack Snyder",
+    "year": 2024,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 1984,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Denis Villeneuve",
+    "year": 2014,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Titanic",
+    "director": "Zack Snyder",
+    "year": 2000,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 1986,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 1980,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 2016,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 2006,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 1982,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 2020,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 1981,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Guy Ritchie",
+    "year": 2017,
+    "genres": "Mystery, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1990,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 1985,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2016,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2013,
+    "genres": "Mystery, Action"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Ridley Scott",
+    "year": 2001,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "Ridley Scott",
+    "year": 1982,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1991,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Matrix",
+    "director": "Ridley Scott",
+    "year": 2015,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1988,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Memento",
+    "director": "Quentin Tarantino",
+    "year": 2004,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 2001,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Steven Spielberg",
+    "year": 2001,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Zack Snyder",
+    "year": 2009,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 2016,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 2005,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Ridley Scott",
+    "year": 2001,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 2012,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 2007,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Denis Villeneuve",
+    "year": 1998,
+    "genres": "Adventure, Romance"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1989,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1996,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2013,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 2023,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Joker",
+    "director": "Denis Villeneuve",
+    "year": 2000,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Denis Villeneuve",
+    "year": 2013,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1987,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 2017,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 1998,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "Zack Snyder",
+    "year": 1984,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 2002,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 2019,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Joker",
+    "director": "James Cameron",
+    "year": 2004,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2016,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 2004,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 2013,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Gladiator",
+    "director": "James Cameron",
+    "year": 2010,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 2011,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 1983,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 2002,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 1998,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 1997,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Zack Snyder",
+    "year": 2012,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Zack Snyder",
+    "year": 2020,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 2020,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Zack Snyder",
+    "year": 1983,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Quentin Tarantino",
+    "year": 2006,
+    "genres": "Mystery, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Zack Snyder",
+    "year": 1997,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 2012,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "year": 2002,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "James Cameron",
+    "year": 2003,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Steven Spielberg",
+    "year": 1984,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Christopher Nolan",
+    "year": 2018,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 2021,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1994,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 1988,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Martin Scorsese",
+    "year": 2010,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "James Cameron",
+    "year": 2002,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Joker",
+    "director": "Guy Ritchie",
+    "year": 1996,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 1984,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Zack Snyder",
+    "year": 1986,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "The Martian",
+    "director": "Denis Villeneuve",
+    "year": 1998,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Denis Villeneuve",
+    "year": 2010,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 1986,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2020,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2011,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Ridley Scott",
+    "year": 2013,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 2023,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Memento",
+    "director": "Steven Spielberg",
+    "year": 2001,
+    "genres": "Fantasy, Mystery"
+  }
+]

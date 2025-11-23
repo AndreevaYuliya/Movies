@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Tenet",
+    "director": "James Cameron",
+    "year": 2003,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2016,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 2013,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2024,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1996,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 2013,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Avatar",
+    "director": "Zack Snyder",
+    "year": 2008,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 2013,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Zack Snyder",
+    "year": 2016,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1984,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Quentin Tarantino",
+    "year": 2014,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Martin Scorsese",
+    "year": 2013,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2000,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 1982,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 2017,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 2012,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "Ridley Scott",
+    "year": 2004,
+    "genres": "Crime, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 1981,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Guy Ritchie",
+    "year": 1994,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 1983,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 1994,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1988,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 1985,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 2022,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 1982,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2019,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 2017,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2006,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2001,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 1984,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 1980,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 1982,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Titanic",
+    "director": "Steven Spielberg",
+    "year": 2016,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 1987,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Zack Snyder",
+    "year": 1984,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "year": 2007,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 2018,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 2006,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 1983,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 2011,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "James Cameron",
+    "year": 1983,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Zack Snyder",
+    "year": 1983,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Quentin Tarantino",
+    "year": 1996,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 1987,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "John Wick",
+    "director": "James Cameron",
+    "year": 1988,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 2012,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 1983,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2005,
+    "genres": "Action, Romance"
+  }
+]

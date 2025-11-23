@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 1996,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 1995,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 2011,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Memento",
+    "director": "Ridley Scott",
+    "year": 2002,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 1986,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Denis Villeneuve",
+    "year": 1980,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 1999,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2006,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 1994,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 2000,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Zack Snyder",
+    "year": 1989,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Steven Spielberg",
+    "year": 1984,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "The Martian",
+    "director": "Steven Spielberg",
+    "year": 1989,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2015,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 1997,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 1997,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Zack Snyder",
+    "year": 1996,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Titanic",
+    "director": "Guy Ritchie",
+    "year": 1984,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 1987,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 1990,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2002,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 2003,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 1984,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 2012,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 2007,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 2009,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 2013,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Zack Snyder",
+    "year": 1991,
+    "genres": "Adventure, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 2015,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Denis Villeneuve",
+    "year": 1980,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 1997,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Zack Snyder",
+    "year": 1982,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 1999,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Steven Spielberg",
+    "year": 1985,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 1994,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 1982,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 2000,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 1980,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 2001,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": 1986,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 2012,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 2004,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 1994,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 1995,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2004,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 1987,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Steven Spielberg",
+    "year": 2008,
+    "genres": "Sci-Fi, Adventure"
+  }
+]
