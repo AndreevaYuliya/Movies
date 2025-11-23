@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Matrix",
+    "director": "Steven Spielberg",
+    "year": 2016,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Ridley Scott",
+    "year": 1995,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Steven Spielberg",
+    "year": 2019,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Guy Ritchie",
+    "year": 1986,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 1983,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 2014,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Ridley Scott",
+    "year": 1995,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 1996,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 1988,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 1993,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 2020,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 2017,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 1985,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 2000,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Memento",
+    "director": "Steven Spielberg",
+    "year": 2009,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 2001,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Zack Snyder",
+    "year": 2021,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Christopher Nolan",
+    "year": 1995,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 2016,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "The Martian",
+    "director": "Martin Scorsese",
+    "year": 2016,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Ridley Scott",
+    "year": 2011,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 1982,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 2024,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "The Martian",
+    "director": "Martin Scorsese",
+    "year": 2023,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Zack Snyder",
+    "year": 2020,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Ridley Scott",
+    "year": 1987,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Guy Ritchie",
+    "year": 1997,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 1995,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 1980,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "James Cameron",
+    "year": 2012,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Denis Villeneuve",
+    "year": 2018,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Quentin Tarantino",
+    "year": 1981,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 1995,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 1988,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1998,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 2008,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Martin Scorsese",
+    "year": 2011,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 1998,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 2020,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "year": 1990,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 2013,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "The Martian",
+    "director": "Christopher Nolan",
+    "year": 2021,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Denis Villeneuve",
+    "year": 2013,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 2018,
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2011,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 2006,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Steven Spielberg",
+    "year": 2002,
+    "genres": "Fantasy, Fantasy"
+  }
+]

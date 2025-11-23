@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Joker",
+    "director": "Zack Snyder",
+    "year": 2003,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2000,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 1991,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "James Cameron",
+    "year": 1999,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 1984,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 1986,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 2008,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 2013,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 1990,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1984,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1990,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 1994,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Joker",
+    "director": "Zack Snyder",
+    "year": 2000,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Martin Scorsese",
+    "year": 1998,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 2019,
+    "genres": "Thriller, Romance"
+  },
+  {
+    "title": "The Martian",
+    "director": "Zack Snyder",
+    "year": 1996,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Zack Snyder",
+    "year": 2003,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 2022,
+    "genres": "Adventure, Crime"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Zack Snyder",
+    "year": 2018,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Memento",
+    "director": "Zack Snyder",
+    "year": 1990,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1991,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Martin Scorsese",
+    "year": 1986,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 2002,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1989,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 1995,
+    "genres": "Adventure, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Zack Snyder",
+    "year": 2000,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Guy Ritchie",
+    "year": 1993,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "James Cameron",
+    "year": 1991,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Memento",
+    "director": "Martin Scorsese",
+    "year": 2012,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Zack Snyder",
+    "year": 1983,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 1988,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2020,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 2013,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Guy Ritchie",
+    "year": 2017,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 2006,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Martin Scorsese",
+    "year": 2021,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 1994,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 2007,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Martin Scorsese",
+    "year": 2014,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 1990,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 1990,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1988,
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 2009,
+    "genres": "Thriller, Crime"
+  }
+]

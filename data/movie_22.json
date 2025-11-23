@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Kill Bill",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Guy Ritchie",
+    "year": 1993,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 2019,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 1985,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Joker",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 2016,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "James Cameron",
+    "year": 2013,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 2019,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 2024,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1993,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1994,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 2006,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 1983,
+    "genres": "Mystery, Action"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 1992,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1997,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 2014,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2007,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 1989,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2007,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Martin Scorsese",
+    "year": 1992,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 1994,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1995,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 1989,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2008,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 1998,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Christopher Nolan",
+    "year": 2006,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 1993,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 2000,
+    "genres": "Thriller, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 1980,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 2009,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2005,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "The Martian",
+    "director": "Zack Snyder",
+    "year": 1986,
+    "genres": "Thriller, Romance"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 2011,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Steven Spielberg",
+    "year": 2001,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 2010,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 2006,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "John Wick",
+    "director": "Steven Spielberg",
+    "year": 2002,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Quentin Tarantino",
+    "year": 2015,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 1992,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 1993,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 2012,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 2010,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 1990,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 1998,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 2009,
+    "genres": "Thriller, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 2016,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "The Martian",
+    "director": "Steven Spielberg",
+    "year": 2022,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Quentin Tarantino",
+    "year": 2003,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 2000,
+    "genres": "Adventure, Romance"
+  }
+]

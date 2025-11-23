@@ -1,0 +1,302 @@
+[
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 1997,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 2021,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 1996,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": 1982,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1982,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Joker",
+    "director": "Guy Ritchie",
+    "year": 2017,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 2010,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 2021,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 1989,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 1981,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Denis Villeneuve",
+    "year": 1981,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 1990,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 1984,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 2000,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Adventure, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2019,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 1995,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 2017,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 2000,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 2022,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Martin Scorsese",
+    "year": 1981,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 1987,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2011,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1984,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 2003,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 2023,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Steven Spielberg",
+    "year": 2009,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Steven Spielberg",
+    "year": 2014,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Martin Scorsese",
+    "year": 1997,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 1988,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 1989,
+    "genres": "Mystery, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "James Cameron",
+    "year": 2011,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 2009,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 1985,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2014,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "James Cameron",
+    "year": 2014,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 1995,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 2003,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1986,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 2003,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Memento",
+    "director": "Quentin Tarantino",
+    "year": 2013,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 2011,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 1989,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "John Wick",
+    "director": "Guy Ritchie",
+    "year": 1997,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1980,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 2001,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Guy Ritchie",
+    "year": 1994,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 2000,
+    "genres": "Crime, Crime"
+  }
+]
