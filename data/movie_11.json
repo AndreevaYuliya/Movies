@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 1990,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 1998,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1991,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 2020,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 2016,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 1990,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Quentin Tarantino",
+    "year": 1995,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 1989,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "John Wick",
+    "director": "Denis Villeneuve",
+    "year": 2008,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1994,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 1985,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Christopher Nolan",
+    "year": 2007,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 1993,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": 1985,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Zack Snyder",
+    "year": 1985,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Zack Snyder",
+    "year": 2006,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 1999,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 1987,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 2015,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2015,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2024,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "year": 2012,
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Zack Snyder",
+    "year": 2013,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Ridley Scott",
+    "year": 1990,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Guy Ritchie",
+    "year": 1993,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 1989,
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "James Cameron",
+    "year": 2016,
+    "genres": "Mystery, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2017,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2003,
+    "genres": "Drama, Adventure"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 1999,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "James Cameron",
+    "year": 2017,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "John Wick",
+    "director": "Guy Ritchie",
+    "year": 1980,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 1992,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2011,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 2013,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Joker",
+    "director": "Zack Snyder",
+    "year": 2008,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2014,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 1989,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 2017,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Mystery, Sci-Fi"
+  },
+  {
+    "title": "Tenet",
+    "director": "Zack Snyder",
+    "year": 2009,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 2015,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2016,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 1992,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Martin Scorsese",
+    "year": 1997,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 2021,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 1997,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2005,
+    "genres": "Fantasy, Thriller"
+  }
+]

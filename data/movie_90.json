@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 1986,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Titanic",
+    "director": "Guy Ritchie",
+    "year": 2010,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 1997,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 1984,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Steven Spielberg",
+    "year": 2015,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 1983,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 2016,
+    "genres": "Drama, Action"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1987,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "James Cameron",
+    "year": 1996,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 2005,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 1988,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2003,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 1997,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2021,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 1986,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Christopher Nolan",
+    "year": 2005,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1982,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 1994,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 1987,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 2007,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "James Cameron",
+    "year": 2022,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Joker",
+    "director": "Guy Ritchie",
+    "year": 2000,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Martin Scorsese",
+    "year": 2000,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Guy Ritchie",
+    "year": 2014,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 1988,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Quentin Tarantino",
+    "year": 2012,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Zack Snyder",
+    "year": 1989,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 1984,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 2021,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "The Martian",
+    "director": "Martin Scorsese",
+    "year": 2009,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Guy Ritchie",
+    "year": 1997,
+    "genres": "Adventure, Fantasy"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 2021,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 2020,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2012,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Denis Villeneuve",
+    "year": 1988,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2023,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 2004,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 1998,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Avatar",
+    "director": "Zack Snyder",
+    "year": 2018,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1980,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 1995,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2019,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Steven Spielberg",
+    "year": 1993,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2012,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 1994,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 1983,
+    "genres": "Romance, Romance"
+  }
+]

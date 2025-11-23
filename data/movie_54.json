@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Tenet",
+    "director": "Guy Ritchie",
+    "year": 2021,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 1983,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 2001,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "year": 1999,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 1990,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "John Wick",
+    "director": "James Cameron",
+    "year": 1994,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 1999,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Ridley Scott",
+    "year": 1986,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Martin Scorsese",
+    "year": 1984,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Zack Snyder",
+    "year": 2016,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2014,
+    "genres": "Crime, Sci-Fi"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Zack Snyder",
+    "year": 1981,
+    "genres": "Fantasy, Sci-Fi"
+  },
+  {
+    "title": "Memento",
+    "director": "Zack Snyder",
+    "year": 2019,
+    "genres": "Sci-Fi, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 2016,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Quentin Tarantino",
+    "year": 2021,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 1980,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Titanic",
+    "director": "Ridley Scott",
+    "year": 1986,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 1995,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Quentin Tarantino",
+    "year": 1996,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 2000,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Quentin Tarantino",
+    "year": 1988,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 2003,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 1998,
+    "genres": "Crime, Mystery"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2002,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 2003,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Zack Snyder",
+    "year": 1980,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Memento",
+    "director": "Quentin Tarantino",
+    "year": 1993,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 2009,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Guy Ritchie",
+    "year": 2017,
+    "genres": "Romance, Fantasy"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "James Cameron",
+    "year": 2005,
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Denis Villeneuve",
+    "year": 1993,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 1996,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Denis Villeneuve",
+    "year": 1999,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Ridley Scott",
+    "year": 2016,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1996,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2011,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "The Martian",
+    "director": "Denis Villeneuve",
+    "year": 1990,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Zack Snyder",
+    "year": 1981,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 2000,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 2022,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 2019,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 2019,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1989,
+    "genres": "Mystery, Fantasy"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 2019,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "John Wick",
+    "director": "Zack Snyder",
+    "year": 1989,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 1994,
+    "genres": "Crime, Fantasy"
+  }
+]

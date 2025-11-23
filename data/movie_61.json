@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 2009,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Martin Scorsese",
+    "year": 1995,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2002,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Tenet",
+    "director": "Ridley Scott",
+    "year": 2004,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "Steven Spielberg",
+    "year": 2018,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "Ridley Scott",
+    "year": 1981,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Guy Ritchie",
+    "year": 1994,
+    "genres": "Thriller, Sci-Fi"
+  },
+  {
+    "title": "Matrix",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 1993,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Guy Ritchie",
+    "year": 1993,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 2009,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 1990,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "Memento",
+    "director": "Quentin Tarantino",
+    "year": 1997,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "John Wick",
+    "director": "Christopher Nolan",
+    "year": 2007,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "The Martian",
+    "director": "Martin Scorsese",
+    "year": 2003,
+    "genres": "Thriller, Fantasy"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 1988,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 1982,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 2000,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Denis Villeneuve",
+    "year": 2005,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "James Cameron",
+    "year": 2018,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 2010,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Quentin Tarantino",
+    "year": 2023,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 2006,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 1983,
+    "genres": "Romance, Thriller"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Quentin Tarantino",
+    "year": 2006,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2004,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2024,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 2022,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 1992,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 2008,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 1994,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Guy Ritchie",
+    "year": 1988,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 1990,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": 2013,
+    "genres": "Mystery, Drama"
+  },
+  {
+    "title": "Memento",
+    "director": "Christopher Nolan",
+    "year": 1997,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Quentin Tarantino",
+    "year": 1984,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 2021,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Martin Scorsese",
+    "year": 2011,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 2024,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Ridley Scott",
+    "year": 1989,
+    "genres": "Mystery, Thriller"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 2008,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Denis Villeneuve",
+    "year": 1995,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 1993,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Denis Villeneuve",
+    "year": 1996,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 2019,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Joker",
+    "director": "Guy Ritchie",
+    "year": 2005,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 1995,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 2006,
+    "genres": "Thriller, Drama"
+  }
+]

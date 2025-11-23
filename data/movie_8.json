@@ -1,0 +1,302 @@
+[
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2005,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 2012,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Inception",
+    "director": "Zack Snyder",
+    "year": 2006,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Steven Spielberg",
+    "year": 1987,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1980,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 1983,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "Zack Snyder",
+    "year": 1994,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Joker",
+    "director": "Martin Scorsese",
+    "year": 1995,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 2008,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2012,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2013,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Quentin Tarantino",
+    "year": 1982,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1999,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Ridley Scott",
+    "year": 1980,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Titanic",
+    "director": "Denis Villeneuve",
+    "year": 1998,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Christopher Nolan",
+    "year": 2010,
+    "genres": "Drama, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Ridley Scott",
+    "year": 1982,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Denis Villeneuve",
+    "year": 2020,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 2001,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 2003,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2019,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Guy Ritchie",
+    "year": 2001,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Martin Scorsese",
+    "year": 1989,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 1984,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1985,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Memento",
+    "director": "Ridley Scott",
+    "year": 1997,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Steven Spielberg",
+    "year": 2006,
+    "genres": "Fantasy, Thriller"
+  },
+  {
+    "title": "Matrix",
+    "director": "Zack Snyder",
+    "year": 2005,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 1988,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Guy Ritchie",
+    "year": 1996,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1998,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "John Wick",
+    "director": "Ridley Scott",
+    "year": 1991,
+    "genres": "Action, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 1997,
+    "genres": "Action, Romance"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 2014,
+    "genres": "Crime, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "year": 1995,
+    "genres": "Fantasy, Mystery"
+  },
+  {
+    "title": "John Wick",
+    "director": "Steven Spielberg",
+    "year": 1984,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 2023,
+    "genres": "Mystery, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2009,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Matrix",
+    "director": "Denis Villeneuve",
+    "year": 2017,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Martin Scorsese",
+    "year": 2004,
+    "genres": "Thriller, Adventure"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 2008,
+    "genres": "Sci-Fi, Adventure"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Denis Villeneuve",
+    "year": 2001,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 2004,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Denis Villeneuve",
+    "year": 2003,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Martin Scorsese",
+    "year": 2008,
+    "genres": "Fantasy, Crime"
+  }
+]

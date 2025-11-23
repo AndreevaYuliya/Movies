@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 1995,
+    "genres": "Drama, Thriller"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 1982,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 1998,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Denis Villeneuve",
+    "year": 1987,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 1983,
+    "genres": "Drama, Romance"
+  },
+  {
+    "title": "Matrix",
+    "director": "Christopher Nolan",
+    "year": 1995,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "Guy Ritchie",
+    "year": 1986,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Martin Scorsese",
+    "year": 1988,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "James Cameron",
+    "year": 1986,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 2001,
+    "genres": "Mystery, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 2011,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 1995,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Zack Snyder",
+    "year": 2007,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Christopher Nolan",
+    "year": 1990,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "Joker",
+    "director": "Denis Villeneuve",
+    "year": 2016,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "John Wick",
+    "director": "Martin Scorsese",
+    "year": 2018,
+    "genres": "Thriller, Action"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2015,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 2001,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "John Wick",
+    "director": "Guy Ritchie",
+    "year": 2005,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Ridley Scott",
+    "year": 2009,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 2010,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 2010,
+    "genres": "Mystery, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 2004,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "John Wick",
+    "director": "Steven Spielberg",
+    "year": 2003,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "year": 2006,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "Tenet",
+    "director": "James Cameron",
+    "year": 2018,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2001,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Ridley Scott",
+    "year": 1994,
+    "genres": "Thriller, Crime"
+  },
+  {
+    "title": "Interstellar",
+    "director": "James Cameron",
+    "year": 1996,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Avatar",
+    "director": "Guy Ritchie",
+    "year": 1982,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Guy Ritchie",
+    "year": 1996,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "year": 1986,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Quentin Tarantino",
+    "year": 2001,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Guy Ritchie",
+    "year": 2009,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 2000,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Quentin Tarantino",
+    "year": 1991,
+    "genres": "Crime, Thriller"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Denis Villeneuve",
+    "year": 2002,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "James Cameron",
+    "year": 2009,
+    "genres": "Romance, Crime"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Zack Snyder",
+    "year": 1993,
+    "genres": "Romance, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Romance, Drama"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Steven Spielberg",
+    "year": 1984,
+    "genres": "Action, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1996,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "Tenet",
+    "director": "Steven Spielberg",
+    "year": 1981,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Ridley Scott",
+    "year": 1987,
+    "genres": "Thriller, Mystery"
+  },
+  {
+    "title": "Tenet",
+    "director": "Guy Ritchie",
+    "year": 2014,
+    "genres": "Adventure, Sci-Fi"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 2001,
+    "genres": "Crime, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "genres": "Action, Thriller"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Denis Villeneuve",
+    "year": 2017,
+    "genres": "Romance, Action"
+  },
+  {
+    "title": "Matrix",
+    "director": "Guy Ritchie",
+    "year": 2006,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Pulp Fiction",
+    "director": "Martin Scorsese",
+    "year": 1984,
+    "genres": "Crime, Drama"
+  }
+]

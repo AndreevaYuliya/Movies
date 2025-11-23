@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Memento",
+    "director": "Martin Scorsese",
+    "year": 2012,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Memento",
+    "director": "Denis Villeneuve",
+    "year": 2011,
+    "genres": "Drama, Sci-Fi"
+  },
+  {
+    "title": "Titanic",
+    "director": "Zack Snyder",
+    "year": 2015,
+    "genres": "Action, Fantasy"
+  },
+  {
+    "title": "Inception",
+    "director": "Ridley Scott",
+    "year": 2019,
+    "genres": "Romance, Mystery"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Quentin Tarantino",
+    "year": 1981,
+    "genres": "Action, Action"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Steven Spielberg",
+    "year": 1985,
+    "genres": "Drama, Drama"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Christopher Nolan",
+    "year": 2024,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Titanic",
+    "director": "Steven Spielberg",
+    "year": 2014,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Tenet",
+    "director": "Zack Snyder",
+    "year": 2012,
+    "genres": "Fantasy, Adventure"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 1983,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "The Martian",
+    "director": "Ridley Scott",
+    "year": 2010,
+    "genres": "Sci-Fi, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 2007,
+    "genres": "Adventure, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Denis Villeneuve",
+    "year": 1991,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Memento",
+    "director": "Guy Ritchie",
+    "year": 1996,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Avatar",
+    "director": "Christopher Nolan",
+    "year": 1986,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Tenet",
+    "director": "Christopher Nolan",
+    "year": 1984,
+    "genres": "Fantasy, Fantasy"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Martin Scorsese",
+    "year": 2018,
+    "genres": "Adventure, Action"
+  },
+  {
+    "title": "The Martian",
+    "director": "James Cameron",
+    "year": 1983,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Steven Spielberg",
+    "year": 2011,
+    "genres": "Thriller, Thriller"
+  },
+  {
+    "title": "John Wick",
+    "director": "Zack Snyder",
+    "year": 1995,
+    "genres": "Sci-Fi, Sci-Fi"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Drama, Crime"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 1989,
+    "genres": "Sci-Fi, Action"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 1993,
+    "genres": "Thriller, Drama"
+  },
+  {
+    "title": "Inception",
+    "director": "James Cameron",
+    "year": 2003,
+    "genres": "Crime, Fantasy"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 1992,
+    "genres": "Adventure, Mystery"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Steven Spielberg",
+    "year": 2014,
+    "genres": "Action, Sci-Fi"
+  },
+  {
+    "title": "Reservoir Dogs",
+    "director": "Ridley Scott",
+    "year": 2020,
+    "genres": "Mystery, Mystery"
+  },
+  {
+    "title": "Joker",
+    "director": "Zack Snyder",
+    "year": 1997,
+    "genres": "Sci-Fi, Romance"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Martin Scorsese",
+    "year": 2011,
+    "genres": "Adventure, Drama"
+  },
+  {
+    "title": "John Wick",
+    "director": "Quentin Tarantino",
+    "year": 2021,
+    "genres": "Crime, Drama"
+  },
+  {
+    "title": "Gladiator",
+    "director": "Quentin Tarantino",
+    "year": 1995,
+    "genres": "Fantasy, Crime"
+  },
+  {
+    "title": "Inception",
+    "director": "Quentin Tarantino",
+    "year": 2024,
+    "genres": "Sci-Fi, Mystery"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Guy Ritchie",
+    "year": 1989,
+    "genres": "Sci-Fi, Thriller"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 2018,
+    "genres": "Romance, Romance"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "Christopher Nolan",
+    "year": 1998,
+    "genres": "Action, Mystery"
+  },
+  {
+    "title": "Joker",
+    "director": "Steven Spielberg",
+    "year": 1988,
+    "genres": "Adventure, Thriller"
+  },
+  {
+    "title": "Dunkirk",
+    "director": "James Cameron",
+    "year": 2019,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "The Martian",
+    "director": "Quentin Tarantino",
+    "year": 1994,
+    "genres": "Crime, Romance"
+  },
+  {
+    "title": "Joker",
+    "director": "Quentin Tarantino",
+    "year": 2003,
+    "genres": "Fantasy, Romance"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 1990,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Kill Bill",
+    "director": "Christopher Nolan",
+    "year": 1980,
+    "genres": "Crime, Adventure"
+  },
+  {
+    "title": "Avatar",
+    "director": "Steven Spielberg",
+    "year": 2018,
+    "genres": "Sci-Fi, Crime"
+  },
+  {
+    "title": "The Prestige",
+    "director": "Martin Scorsese",
+    "year": 2017,
+    "genres": "Action, Adventure"
+  },
+  {
+    "title": "The Dark Knight",
+    "director": "Zack Snyder",
+    "year": 2010,
+    "genres": "Fantasy, Action"
+  },
+  {
+    "title": "Avatar",
+    "director": "Martin Scorsese",
+    "year": 1998,
+    "genres": "Adventure, Romance"
+  },
+  {
+    "title": "Inception",
+    "director": "Denis Villeneuve",
+    "year": 1987,
+    "genres": "Drama, Fantasy"
+  },
+  {
+    "title": "Titanic",
+    "director": "Christopher Nolan",
+    "year": 2017,
+    "genres": "Crime, Action"
+  },
+  {
+    "title": "Interstellar",
+    "director": "Ridley Scott",
+    "year": 2001,
+    "genres": "Romance, Sci-Fi"
+  },
+  {
+    "title": "The Martian",
+    "director": "Guy Ritchie",
+    "year": 1987,
+    "genres": "Fantasy, Drama"
+  },
+  {
+    "title": "The Martian",
+    "director": "Christopher Nolan",
+    "year": 2022,
+    "genres": "Romance, Mystery"
+  }
+]
